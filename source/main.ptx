@@ -6,7 +6,7 @@
   <xi:include href="./docinfo.ptx" />
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
   <book>
-    <title>Discrete Mathematics and Fun</title>
+    <title>Discrete Mathematics</title>
 
     <subtitle>MATH 228 Spring 2026</subtitle>
 
