@@ -4,9 +4,13 @@
   <title>Syllabus</title>
 
   <introduction>
-    <p>
-      Welcome to what promises to be an exciting and fun semester of ...
-    </p>
+<p>
+    Welcome to what promises to be an <em>exciting</em> and fun semester of discrete mathematics.
+</p>
+
+<p>
+    Yes, I said fun!
+</p>
   </introduction>
   <!-- Include chapters -->
   <subsection xml:id="sec-course-info">
@@ -15,6 +19,7 @@
     <p>
       This is the syllabus for <term>course name (MATH xxx, section xxx)</term> for semester 20xx.
       It is a x credit course.
+      
       <dl>
       <li>
         <title>Instructor</title>
